@@ -33,8 +33,7 @@ Illustration:
 *(image created by: Weslen Almeida, with part obtained by other authors preserving their work and image rights, not for sale or shared with third parties)*
 
 - Graphic vision stage
-<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/graphic-vision-stage.jpg
-" class="center">
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/graphic-vision-stage.jpg" class="center">
 *(image created by: Weslen Almeida, with part obtained by other authors preserving their work and image rights, not for sale or shared with third parties)*
 
 ### 5. Steps
