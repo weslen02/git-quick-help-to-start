@@ -24,3 +24,4 @@ The development of the copy on the workstation, will be on every workstation, no
 GIT IS A VERSION CONTROLLER, BASIC THINKING!
 
 Illustration:
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/illustration.jpg" class="center">
