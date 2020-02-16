@@ -25,11 +25,13 @@ GIT IS A VERSION CONTROLLER, BASIC THINKING!
 
 Illustration:
 <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/illustration.jpg" class="center">
+
 *(image created by: Weslen Almeida, with part obtained by other authors preserving their work and image rights, not for sale or shared with third parties)*
 
 ### 4. 3 Stages
 - Stage Description:
 <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/stages-description.jpg" class="center">
+
 *(image created by: Weslen Almeida, with part obtained by other authors preserving their work and image rights, not for sale or shared with third parties)*
 
 - Graphic vision stage
