@@ -5,17 +5,17 @@
 - [1. Objective](#1-objective)
 - [2. Versioning](#2-versioning)
 - [3. About Git](#3-about-git)
-- [4. 3 Stages](#4-Stages)
-- [5. Steps](#5-Steps)
+- [4. 3 Stages](#4-stages)
+- [5. Steps](#5-steps)
   - [5.1. First-Time Git Setup](#5-1-first-time-git-setup)
 
     
 ## Steps 
 
- ### 1. Objective:
+ ### 1. Objective
 **Quick Help git** is so you can do the initial **git steps** faster.
 
-### 2. Versioning:
+### 2. Versioning
 Git is not a version controller centralized, Git is a distributed version control system.
 
 The development of the copy on the workstation, will be on every workstation, not only in the repository, that is, all versions are distributed on all workstations when committed.
@@ -25,3 +25,16 @@ GIT IS A VERSION CONTROLLER, BASIC THINKING!
 
 Illustration:
 <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/illustration.jpg" class="center">
+*(image created by: Weslen Almeida, with part obtained by other authors preserving their work and image rights, not for sale or shared with third parties)*
+
+### 4. 3 Stages
+- Stage Description:
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/stages-description.jpg" class="center">
+*(image created by: Weslen Almeida, with part obtained by other authors preserving their work and image rights, not for sale or shared with third parties)*
+
+- Graphic vision stage
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/graphic-vision-stage.jpg
+" class="center">
+*(image created by: Weslen Almeida, with part obtained by other authors preserving their work and image rights, not for sale or shared with third parties)*
+
+### 5. Steps
