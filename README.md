@@ -139,7 +139,7 @@ Cloning a repository
 <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/6-clone-vi.png" class="center">
 
 ### 7. Commiting
-$ `git add *`
+$ `git add .`
 $ `git commit -m "your message"`
 $ `git push`
 
@@ -149,13 +149,13 @@ $ `git push`
 ### 8. Reference
 Last access 2020-02-16.
 
-https://git-scm.com/book/en/v2
-https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
-https://help.github.com/en/github/authenticating-to-github/working-with-ssh-key-passphrases
-https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
-https://help.github.com/en/github/using-git/which-remote-url-should-i-use
-https://git-scm.com/docs/git-add
+- https://git-scm.com/book/en/v2
+- https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+- https://help.github.com/en/github/authenticating-to-github/working-with-ssh-key-passphrases
+- https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+- https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+- https://help.github.com/en/github/using-git/which-remote-url-should-i-use
+- https://git-scm.com/docs/git-add
 
 
 > **PS:** *All of this material is for the sole and exclusive purpose of sharing knowledge; the images used here are mine or those of others; they are not intended to be shared for personal gain, but to better clarify the information sharing process.
