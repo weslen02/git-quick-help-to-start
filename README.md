@@ -69,7 +69,7 @@ This creates a new ssh key, using the provided email as a label.
 4.	When you're prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
 
 ---
-*Not necesseray passphrase or passward, only press enter, but if you want you can use pass, because we are going to configure SSH and for me this is enough, up to you, by the way, the more protection the better.*
+*There is no need to use passphrase or passward, you can just press Enter, but for good practices its use guarantees a better security, here I don't use it, because for me, only SSH will be enough for this knowledge transfer.*
 ***
  
 <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-2-ssh-v.jpg" class="center">
