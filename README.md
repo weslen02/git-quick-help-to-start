@@ -140,7 +140,9 @@ Cloning a repository
 
 ### 7. Commiting
 $ `git add .`
+
 $ `git commit -m "your message"`
+
 $ `git push`
 
 <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/7-commiting.png" class="center">
