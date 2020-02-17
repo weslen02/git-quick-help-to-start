@@ -9,6 +9,9 @@
 - [5. Steps](#5-steps)
   - [5.1. First-Time Git Setup](#51-first-time-git-setup)
   - [5.2 SSH](#52-ssh)
+  - [5.3 Copy SSH Key](#53-copy-ssh-key)
+- [6. Clone Repo](#4-clone-repo)
+
 
 ## Hands-on learning
 
@@ -52,27 +55,27 @@ Again, you need to do this only once if you pass the --global option, because th
 Many of the GUI tools will help you do this when you first run them.
 
 - #### 5.2. SSH
-  1. Open Git Bash.
-  2. Paste the text below, substituting in your GitHub email address
-  3. `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+1. Open Git Bash.
+2. Paste the text below, substituting in your GitHub email address.
+3. `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 
-  <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-2-ssh-iii.jpg" class="center">
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-2-ssh-iii.jpg" class="center">
   
-  This creates a new ssh key, using the provided email as a label.
+This creates a new ssh key, using the provided email as a label.
   
-  <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-2-ssh-img01.jpg" class="center">
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-2-ssh-img01.jpg" class="center">
 
-  4.	When you're prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
+4.	When you're prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
 
-  ---
-  Not necesseray passphrase or passward, only press enter, but if you want you can use pass, because we are going to configure SSH and for me this is enough, up to you, by the way, the more protection the better.
-  ***
-  
-  <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-2-ssh-v.jpg" class="center">
+---
+*Not necesseray passphrase or passward, only press enter, but if you want you can use pass, because we are going to configure SSH and for me this is enough, up to you, by the way, the more protection the better.*
+***
+ 
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-2-ssh-v.jpg" class="center">
 
-  6.	At the prompt, type a secure passphrase. For more information, see "Working with SSH key passphrases".
+6.	At the prompt, type a secure passphrase. For more information, see "Working with SSH key passphrases".
   
-  <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-2-ssh-vii.jpg" class="center">
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-2-ssh-vii.jpg" class="center">
 
 - #### 5.3. Copy SSH Key
 Adding a new SSH key to your GitHub account
@@ -86,5 +89,62 @@ clip < ~/.ssh/id_rsa.pub
 ```
 
 2.	In the upper-right corner of any page, click your profile photo, then click *Settings*.
+
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-3-cp-ssh-ii.png" class="center">
+
+3.	In the user settings sidebar, click *SSH and GPG keys*.
+
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-3-cp-ssh-iii.png" class="center">
+
+4.	Click *New SSH* key or *Add SSH key*.
+
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-3-cp-ssh-iv.png" class="center">
+
+5.	In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Mac, you might call this key "Personal MacBook Air".
+
+6.	Paste your key into the "Key" field.
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-3-cp-ssh-vi.png" class="center">
+
+7.	Click Add SSH key.
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-3-cp-ssh-vii.png" class="center">
+
+8.	If prompted, confirm your GitHub password.
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-3-cp-ssh-viii.png" class="center">
+
+
+### 6. Clone Repo
+Cloning a repository
+
+1.	On GitHub, navigate to the main page of the repository (<>code).
+
+2.	Under the repository name, click Clone or download.
+
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/6-clone-ii.png" class="center">
+
+3.	In the Clone with SSH section, click to copy the clone URL for the repository.
+
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/6-clone-iii.png" class="center">
+
+4.  Change the current working directory to the location where you want the cloned directory to be made.
+
+5.	Type git clone, and then paste the URL you copied in Step 2 and 3.
+
+`$ git clone git@github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+
+
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/6-clone-v.png" class="center">
+
+6.	Press Enter. Your local clone will be created.
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/6-clone-vi.png" class="center">
+
+### 7. Commiting
+$ `git add *`
+$ `git commit -m "your message"`
+$ `git push`
+
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-commiting.png" class="center">
+
+<img src="" class="center">
+
 
 > A good **knowledge** is **shared knowledge**!
