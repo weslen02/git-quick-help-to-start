@@ -143,7 +143,7 @@ $ `git add *`
 $ `git commit -m "your message"`
 $ `git push`
 
-<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-commiting.png" class="center">
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/7-commiting.png" class="center">
 
 
 ### 8. Reference
