@@ -164,6 +164,7 @@ I apologize with English, this is a new path in which I am working hard to learn
 <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/tks.png" class="center">
 
 by:
+
 <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/assWeslen2.png" class="center">
 
 > A good **knowledge** is **shared knowledge**!
