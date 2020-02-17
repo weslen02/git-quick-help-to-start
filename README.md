@@ -146,5 +146,4 @@ $ `git push`
 
 <img src="" class="center">
 
-
 > A good **knowledge** is **shared knowledge**!
