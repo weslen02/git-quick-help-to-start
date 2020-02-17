@@ -10,7 +10,8 @@
   - [5.1. First-Time Git Setup](#51-first-time-git-setup)
   - [5.2 SSH](#52-ssh)
   - [5.3 Copy SSH Key](#53-copy-ssh-key)
-- [6. Clone Repo](#4-clone-repo)
+- [6. Clone Repo](#6-clone-repo)
+- [7. Commiting](#7-commiting)
 
 
 ## Hands-on learning
@@ -144,6 +145,25 @@ $ `git push`
 
 <img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/5-commiting.png" class="center">
 
-<img src="" class="center">
+
+### 8. Reference
+Last access 2020-02-16.
+
+https://git-scm.com/book/en/v2
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+https://help.github.com/en/github/authenticating-to-github/working-with-ssh-key-passphrases
+https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+https://help.github.com/en/github/using-git/which-remote-url-should-i-use
+https://git-scm.com/docs/git-add
+
+
+> **PS:** *All of this material is for the sole and exclusive purpose of sharing knowledge; the images used here are mine or those of others; they are not intended to be shared for personal gain, but to better clarify the information sharing process.
+I apologize with English, this is a new path in which I am working hard to learn, if you noticed something wrong, out of context and it doesn't make sense, please fork and help me build this basic material better, like this we will have a quick help of knowledge well elaborated.*
+
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/tks.png" class="center">
+
+by:
+<img src="https://github.com/weslen02/git-quick-help-to-start/blob/master/img/assWeslen1.png" class="center">
 
 > A good **knowledge** is **shared knowledge**!
