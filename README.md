@@ -85,7 +85,18 @@ Adding a new SSH key to your GitHub account
 If your SSH key file has a different name than the example code, modify the filename to match your current setup. When copying your key, don't add any newlines or whitespace.
 
 ```console
+# In the Windows OS
+# Copies the contents of the id_rsa.pub file to your clipboard
 clip < ~/.ssh/id_rsa.pub
+```
+<hr>
+
+```console
+# In the Linux OS
+$ sudo apt-get install xclip
+# Downloads and installs xclip. If you don't have `apt-get`, you might need to use another installer (like `yum`)
+
+$ xclip -sel clip < ~/.ssh/id_rsa.pub
 # Copies the contents of the id_rsa.pub file to your clipboard
 ```
 
