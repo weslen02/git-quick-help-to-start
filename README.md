@@ -99,6 +99,13 @@ $ sudo apt-get install xclip
 $ xclip -sel clip < ~/.ssh/id_rsa.pub
 # Copies the contents of the id_rsa.pub file to your clipboard
 ```
+<hr>
+
+```console
+# On Mac OS
+$ pbcopy < ~/.ssh/id_rsa.pub
+# Copies the contents of the id_rsa.pub file to your clipboard
+```
 
 2.	In the upper-right corner of any page, click your profile photo, then click *Settings*.
 
